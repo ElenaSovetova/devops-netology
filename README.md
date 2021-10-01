@@ -1,5 +1,6 @@
+zadanie3
 "devops-netology" 
-"new line" 
+new line" 
 "second line"
 
 
@@ -15,4 +16,3 @@ override.tf.json
  tfplan- Не исключать файлы.
 Игнорировать файлы .terraformrc
 terraform.rc
-Заполнить файл сбоев crash.log.
